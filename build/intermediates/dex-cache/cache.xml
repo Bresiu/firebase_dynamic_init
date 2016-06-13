@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_2dc90ea987dbb50f4d43b6ad436888a93c7ad8df/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_c7d897aee8748b6c1420cafa3f91638276b9eb8e/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecbeac162dfd1670ebb011bb372366d5ee69cc66">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_daa7ff3f49cf5bd146db3b2c9d36e4ae1f24b961/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_b1cdf0d9e9caca49522009f5e3cef93092dd4223/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_dfd5f5c53ba1c3eee94e9f0fff958fbb6252668f/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_8b705fb33bace47166331484e5c135304ae9435d/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_ad85f37c16b19e724d8ba15ed5acb99a052e2332/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_558f0225fd414e253307a1bb81b85cc50e0b5317/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="52bcdb101fa9f525de23fee1de684284f5766b29">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5cf90ed6da358335ec33b75cfb33c95261d6b91b/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_bfb8c26638f8be22bca089418f6cef251a20b233/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_aa914cf4c13ec194d09fb107d951ad6a75eb9246/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Bresiu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_5269171406c9b42378d84815994127468c67a27a/classes.dex" />
+    </item>
+    <item
+        jar="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_2fadc5360f756148aa2c3078dff9f963e022ac46/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+application
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.google.firebase.quickstart.fcm.MainActivity
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:11:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:15:27-74
+service#com.google.firebase.quickstart.fcm.MyFirebaseMessagingService
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:20:9-25:19
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:21:13-55
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:22:13-24:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:23:25-75
+service#com.google.firebase.quickstart.fcm.MyFirebaseInstanceIDService
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:28:9-33:19
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:29:13-56
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:31:17-79
+	android:name
+		ADDED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml:31:25-77
+uses-sdk
+INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /private/tmp/firebase/quickstart-android/messaging/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:25:13-82
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:22:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /private/tmp/firebase/quickstart-android/messaging/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:9:13-58

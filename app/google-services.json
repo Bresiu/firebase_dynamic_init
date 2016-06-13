@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947335389044",
+    "firebase_url": "https://message-3980c.firebaseio.com",
+    "project_id": "message-3980c",
+    "storage_bucket": "message-3980c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947335389044:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947335389044-1lqrqr5dvqqec73npj8lpqhvol65rgeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3l3v-0v0felEPOemlOk8qS5qILPrDzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
